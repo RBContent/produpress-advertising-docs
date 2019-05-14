@@ -1,0 +1,7 @@
+{
+    "name": "PDPDOCS - Development",
+    "db": {
+        "host": "mongodb://localhost/produpress-docs"
+    },
+    "sitename": "ProduPress Docs"  
+}
