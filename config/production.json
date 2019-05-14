@@ -1,5 +1,5 @@
 {
-    "name": "PDPDOCS - Development",
+    "name": "PDPDOCS - Production",
     "db": {
         "host": "mongodb://uyhms9phghc1zjadbuaa:hHCX7FvdtU4miDgs2olE@bre3ywfonn7ewwi-mongodb.services.clever-cloud.com:27017/bre3ywfonn7ewwi"
     },

@@ -1,8 +1,5 @@
 {
-    "mail": {
-        "password": "hbg_mail_pass" 
-    },
-    "mongodb": {
-        "password": "MONGODB_ADDON_PASSWORD"
-    }
+ "mongodb": {
+    "password": "MONGODB_ADDON_PASSWORD"
+  }
 }
